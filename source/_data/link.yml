@@ -1,0 +1,7 @@
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: github
+      link: https://www.github.com/zhangming-blog
+      avatar: https://sm.ms/image/A1P5xsmiVwMtDFT
+      descr: 我的github页面
